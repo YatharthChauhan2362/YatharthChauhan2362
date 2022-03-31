@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/yatharth-chauhan-729674202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yatharth-chauhan-729674202" height="30" width="40" /></a>
-
-<a href="https://instagram.com/yatharth.chauhan_2362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yatharth.chauhan_2362" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yatharth-chauhan-729674202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yatharth-chauhan-729674202" height="30" width="40" /></a><a href="https://instagram.com/yatharth.chauhan_2362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yatharth.chauhan_2362" height="30" width="40" /></a>
 
 <a href="https://fb.com/yatharth.chauhan.2362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yatharth.chauhan.2362" height="30" width="40" /></a>
 
