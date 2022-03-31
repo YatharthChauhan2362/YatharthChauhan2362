@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=YatharthChauhan2362">
 </a>
+<a href="https://github.com/YatharthChauhan2362?tab=followers"><img src="https://img.shields.io/github/followers/YatharthChauhan2362?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
