@@ -27,37 +27,25 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **yc232326@gmail.com**
 
-<h3 align="left">Work with me:</h3>
+## 💻 Work With me:
+
 <p align="left">
 
 <a href="https://l.instagram.com/?u=https%3A%2F%2Fwww.fiverr.com%2Fyatharth2362%2Fdesign-modern-minimalist-logo-business-and-brand&e=ATNJWzgzR3sihFxqgnFifej1LdwcLIUYSQUIUG3gJbs0uL-LWGFd1Azz28SLfA6QBXcAnIxyJ4xmFnb3&s=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/YatharthChauhan2362/Graphic-Design/66b3825c2b0fdb650019919663946f4bee784284/.svg/Fiverr.svg" height="30" width="40" /></a>
 
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect with me:
+
 <p align="left">
 
 <a href="https://linkedin.com/in/yatharth-chauhan-729674202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yatharth-chauhan-729674202" height="30" width="40" /></a><a href="https://instagram.com/yatharth.chauhan_2362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yatharth.chauhan_2362" height="30" width="40" /></a><a href="https://fb.com/yatharth.chauhan.2362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yatharth.chauhan.2362" height="30" width="40" /></a><a href="https://www.hackerrank.com/yatharth_chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yatharth_chauhan" height="30" width="40" /></a><a href="https://www.codechef.com/users/cust_20dce019" target="blank"><img align="center" src="https://raw.githubusercontent.com/YatharthChauhan2362/Graphic-Design/a65e03cce0d75ba621d7a2237e7f6310962dbcae/.svg/CodeChef.svg" alt="cust_20dce019" height="30" width="40" /></a>
 
 </p>
 
-
-
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a>
 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=YatharthChauhan2362">
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -75,35 +63,31 @@ Here are some ideas to get you started:
 
 </p>
 
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/YatharthChauhan2362?tab=followers"><img src="https://img.shields.io/github/followers/YatharthChauhan2362?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/YatharthChauhan2362/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YatharthChauhan2362&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SubhamRaoniar28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/YatharthChauhan2362/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YatharthChauhan2362&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/YatharthChauhan2362/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YatharthChauhan2362&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
+<br/>
+<br/>
+
+<a href="https://github.com/YatharthChauhan2362/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YatharthChauhan2362&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-
-
-
-<!-- 
+<!--
 <p></p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yatharthchauhan2362&show_icons=true&locale=en&layout=compact" alt="yatharthchauhan2362" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatharthchauhan2362&show_icons=true&locale=en" alt="yatharthchauhan2362" /></p>
