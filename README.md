@@ -21,19 +21,18 @@ Here are some ideas to get you started:
 <h3 align="center">B.Tech Computer Engineering, Student at CHARUSAT University, India</h3>
 
 
-
 ## About Me 🙋‍♂️
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **yc232326@gmail.com**
 
-## Work With me 💻:
+## Work With me💻:
 
 <p align="left">
 
 <a href="https://l.instagram.com/?u=https%3A%2F%2Fwww.fiverr.com%2Fyatharth2362%2Fdesign-modern-minimalist-logo-business-and-brand&e=ATNJWzgzR3sihFxqgnFifej1LdwcLIUYSQUIUG3gJbs0uL-LWGFd1Azz28SLfA6QBXcAnIxyJ4xmFnb3&s=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/YatharthChauhan2362/Graphic-Design/66b3825c2b0fdb650019919663946f4bee784284/.svg/Fiverr.svg" height="30" width="40" /></a>
 
-## Connect with me 🤝:
+## Connect with me🤝:
 
 <p align="left">
 
@@ -42,7 +41,7 @@ Here are some ideas to get you started:
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharthchauhan2362&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthchauhan2362" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Language and Tools🛡️:
 <p align="left">
 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
