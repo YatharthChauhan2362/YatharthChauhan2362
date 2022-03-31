@@ -20,33 +20,27 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yatharth Chauhan</h1>
 <h3 align="center">B.Tech Computer Engineering, Student at CHARUSAT University, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharthchauhan2362&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthchauhan2362" /> </p>
 
-## 🙋‍♂️ About Me
+
+## About Me 🙋‍♂️
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **yc232326@gmail.com**
 
-## 💻 Work With me:
+## Work With me 💻:
 
 <p align="left">
 
 <a href="https://l.instagram.com/?u=https%3A%2F%2Fwww.fiverr.com%2Fyatharth2362%2Fdesign-modern-minimalist-logo-business-and-brand&e=ATNJWzgzR3sihFxqgnFifej1LdwcLIUYSQUIUG3gJbs0uL-LWGFd1Azz28SLfA6QBXcAnIxyJ4xmFnb3&s=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/YatharthChauhan2362/Graphic-Design/66b3825c2b0fdb650019919663946f4bee784284/.svg/Fiverr.svg" height="30" width="40" /></a>
 
-## 🤝 Connect with me:
+## Connect with me 🤝:
 
 <p align="left">
 
 <a href="https://linkedin.com/in/yatharth-chauhan-729674202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yatharth-chauhan-729674202" height="30" width="40" /></a><a href="https://instagram.com/yatharth.chauhan_2362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yatharth.chauhan_2362" height="30" width="40" /></a><a href="https://fb.com/yatharth.chauhan.2362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yatharth.chauhan.2362" height="30" width="40" /></a><a href="https://www.hackerrank.com/yatharth_chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yatharth_chauhan" height="30" width="40" /></a><a href="https://www.codechef.com/users/cust_20dce019" target="blank"><img align="center" src="https://raw.githubusercontent.com/YatharthChauhan2362/Graphic-Design/a65e03cce0d75ba621d7a2237e7f6310962dbcae/.svg/CodeChef.svg" alt="cust_20dce019" height="30" width="40" /></a>
 
 </p>
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=YatharthChauhan2362">
-</a>
-<a href="https://github.com/YatharthChauhan2362?tab=followers"><img src="https://img.shields.io/github/followers/YatharthChauhan2362?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharthchauhan2362&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthchauhan2362" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -72,7 +66,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-## 📊 My Github Stats
+## My Github Stats 📊
 
   <br/>
     <a href="https://github.com/YatharthChauhan2362/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YatharthChauhan2362&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
