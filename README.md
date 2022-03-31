@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharthchauhan2362&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthchauhan2362" /> </p>
 
+<h3 align="left">Work with me:</h3>
+<p align="left">
+
+<a href="https://l.instagram.com/?u=https%3A%2F%2Fwww.fiverr.com%2Fyatharth2362%2Fdesign-modern-minimalist-logo-business-and-brand&e=ATNJWzgzR3sihFxqgnFifej1LdwcLIUYSQUIUG3gJbs0uL-LWGFd1Azz28SLfA6QBXcAnIxyJ4xmFnb3&s=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/YatharthChauhan2362/Graphic-Design/66b3825c2b0fdb650019919663946f4bee784284/.svg/Fiverr.svg" height="30" width="40" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
