@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/YatharthChauhan2362/Graphic-Design/0dd6718d8de1348b1bf0d28af54afef18995606f/.svg/javascript.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/YatharthChauhan2362/Graphic-Design/2bea93d5d51c58211b275629c6cc612b5c339b43/.svg/adobe-photoshop-logo.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/YatharthChauhan2362/Graphic-Design/ff5ceaf583cbec52528654521aecc0cb32b82f50/.svg/adobe-illustrator-logo.svg" alt="illustrator" width="40" height="40"/> </a>
+   <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
