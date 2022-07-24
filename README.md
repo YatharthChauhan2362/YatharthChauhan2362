@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 
 ## About Me 🙋‍♂️
 
+📝 Checkout my [Portfolio Website](https://yatharthchauhan.me)
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **yc232326@gmail.com**
+- :sparkling_heart: Fun Fact - I love using Emojis 
 
 ## Work With me💻:
 
