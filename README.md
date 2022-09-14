@@ -1,13 +1,9 @@
 <!-- ### Hi, I'm Yatharth Chauhan👋
 
-
-
 📫 How to reach me: [linkedin - @yatharth-chauhan](https://www.linkedin.com/in/yatharth-chauhan-729674202/) -->
 
 <!--
 **YatharthChauhan2362/YatharthChauhan2362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 Here are some ideas to get you started:
 
@@ -24,7 +20,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px">, I'm Yatharth Chauhan</h1>
 <h3 align="center">B.Tech Computer Engineering, Student at CHARUSAT University, India</h3>
 
-![Frame 2](https://user-images.githubusercontent.com/75237577/190223782-e89d7eed-9f9d-4ff0-8599-1f5121a25452.jpg)
+![Yatharth Chauhan Github Cover Page](https://user-images.githubusercontent.com/75237577/190224954-22cdc7a2-b6a8-492c-8abe-23acfc4eb00c.jpg)
+
 
 ## About Me 🙋‍♂️
 
