@@ -22,6 +22,24 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px">, I'm Yatharth Chauhan</h1>
 <h3 align="center">B.Tech Computer Engineering, Student at CHARUSAT University, India</h3>
 
+<p align='center'>
+  Passionate about programming and design</b> 
+</p>
+
+<!-- <p align='center'>
+  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor"></a>
+</p> -->
+
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/yatharth-chauhan-729674202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://twitter.com/Yatharth_YC"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+<!--   <a href="mailto:stefany.vasc.sa@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+
+</p>
+
 ![Yatharth Chauhan Github Cover Page](https://user-images.githubusercontent.com/75237577/190224954-22cdc7a2-b6a8-492c-8abe-23acfc4eb00c.jpg)
 
 ## About Me 🙋‍♂️
