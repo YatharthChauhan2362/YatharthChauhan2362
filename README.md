@@ -5,6 +5,8 @@
 <!--
 **YatharthChauhan2362/YatharthChauhan2362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -30,23 +32,33 @@ Here are some ideas to get you started:
 - 📫 How to reach me **yc232326@gmail.com**
 - :sparkling_heart: Fun Fact - I love using Emojis
 
+
+## Connect with me🤝:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yatharth.chauhan_yc/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yatharth-chauhan-729674202/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Yatharth_YC) 
+
+# Technologies:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
+
 ## Work With me💻:
 
 <p align="left">
 
 <a href="https://l.instagram.com/?u=https%3A%2F%2Fwww.fiverr.com%2Fyatharth2362%2Fdesign-modern-minimalist-logo-business-and-brand&e=ATNJWzgzR3sihFxqgnFifej1LdwcLIUYSQUIUG3gJbs0uL-LWGFd1Azz28SLfA6QBXcAnIxyJ4xmFnb3&s=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/YatharthChauhan2362/Graphic-Design/66b3825c2b0fdb650019919663946f4bee784284/.svg/Fiverr.svg" height="30" width="40" /></a>
 
-## Connect with me🤝:
+ 
+ 
+<!-- 
 
 <a href="https://linkedin.com/in/yatharth-chauhan-729674202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yatharth-chauhan-729674202" height="30" width="40" />
 </a><a href="https://instagram.com/yatharth.chauhan_yc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yatharth.chauhan_2362" height="30" width="40" /></a>
 <a href="https://fb.com/yatharth.chauhan.2362" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yatharth.chauhan.2362" height="30" width="40" /></a><p align="left">
 <a href="https://www.leetcode.com/https://leetcode.com/yatharthchauhan2362/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/yatharthchauhan2362/" height="30" width="40" /></a>
 
-</p>
+</p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatharthchauhan2362&label=Profile%20views&color=0e75b6&style=flat" alt="yatharthchauhan2362" /> </p>
-
+<!-- 
 ## Language and Tools🛡️:
 
 <p align="left"> 
@@ -62,7 +74,7 @@ Here are some ideas to get you started:
 </a>
 
 </p>
-
+ -->
 <a href="https://github.com/YatharthChauhan2362?tab=followers"><img src="https://img.shields.io/github/followers/YatharthChauhan2362?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="center">
