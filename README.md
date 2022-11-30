@@ -1,23 +1,5 @@
-<!-- ### Hi, I'm Yatharth Chauhan👋
-
-📫 How to reach me: [linkedin - @yatharth-chauhan](https://www.linkedin.com/in/yatharth-chauhan-729674202/) -->
-
-<!--
-**YatharthChauhan2362/YatharthChauhan2362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"  height="30px">, I'm Yatharth Chauhan</h1>
 <h3 align="center">B.Tech Computer Engineering, Student at CHARUSAT University, India</h3>
@@ -26,16 +8,15 @@ Here are some ideas to get you started:
   Passionate about programming and design</b> 
 </p>
 
-<!-- <p align='center'>
-       <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=StefanyVasc.StefanyVasc??style=for-the-badge&logo=appveyor"></a>
-</p> -->
-
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/yatharth-chauhan-729674202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/Yatharth_YC"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://www.linkedin.com/in/yatharth-chauhan-729674202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/Yatharth_YC"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp; 
+  <a href="https://github.com/YatharthChauhan2362">
+<img alt="followers" title="Followers me on Github" src="https://img.shields.io/github/followers/YatharthChauhan2362?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>&nbsp;&nbsp;&nbsp; 
+  <a href="https://yatharthchauhan.me">
+<img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2Fneeraj2002.github.io%2F"/></a>&nbsp;&nbsp;&nbsp; 
  
-<!--   <a href="mailto:stefany.vasc.sa@gmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 </p>
 
