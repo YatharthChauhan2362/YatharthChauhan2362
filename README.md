@@ -50,7 +50,7 @@
 <a href="https://twitter.com/Yatharth_YC"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
 
 
-## Work💻:
+## Work💻
 
 <p align="left">
 
