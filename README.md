@@ -26,9 +26,9 @@
 📝 Checkout my [Portfolio Website](https://yatharthchauhan.me)
 
 - 📑 Focus on: Microsoft Azure | AWS | Devops
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🏢 Entrepreneur: [VEENEXT CREATIVE](https://www.instagram.com/veenext.design_yc/)
 - 🎨 Artist Work: [YCART Web](https://yatharthchauhan2362.github.io/ycart.github.io/www.ycart.com/index.html) 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📫 How to reach me **yatharthchauhan2024@gmail.com**
 - :sparkling_heart: Fun Fact: I love using Emojis
 
