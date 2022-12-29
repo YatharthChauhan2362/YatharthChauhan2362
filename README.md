@@ -25,6 +25,7 @@
 
 📝 Checkout my [Portfolio Website](https://yatharthchauhan.me)
 
+- 📑 Currently I'm Learning: Microsoft Azure | AWS | Devops
 - 🏢 Entrepreneur: [VEENEXT CREATIVE](https://www.instagram.com/veenext.design_yc/)
 - 🎨 Artist Work: [YCART Web](https://yatharthchauhan2362.github.io/ycart.github.io/www.ycart.com/index.html) 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
