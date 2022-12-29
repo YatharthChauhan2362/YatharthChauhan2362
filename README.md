@@ -29,7 +29,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 🏢 Entrepreneur: [VEENEXT CREATIVE](https://www.instagram.com/veenext.design_yc/)
 - 🎨 Artist Work: [YCART Web](https://yatharthchauhan2362.github.io/ycart.github.io/www.ycart.com/index.html) 
-- 📫 How to reach me [Gmail]yc232326@gmail.com
+- 📫 reach me via [Gmail](yc232326@gmail.com)
 - :sparkling_heart: Fun Fact: I love using Emojis
 
 ## States📈
