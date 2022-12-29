@@ -32,7 +32,7 @@
 - 📫 reach me via [Gmail](yc232326@gmail.com)
 - :sparkling_heart: Fun Fact: I love using Emojis
 
-## States📈
+## Stats📈
 
 <a align="left" href="https://github.com/YatharthChauhan2362/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=YatharthChauhan2362&style=for-the-badge">
