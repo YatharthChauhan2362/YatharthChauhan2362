@@ -17,7 +17,7 @@
 </p>
 
 
-## 👉 About Me
+# 👉 About Me
 
 ![Yatri Cloud - GitHub](https://github.com/user-attachments/assets/62f6e541-7e7d-4924-9434-72540f63d01f)
 
@@ -42,14 +42,14 @@ I’m passionate about technology and education. If you’re interested in worki
 </p>
 
 
-## 👉 Stats
+# 👉 Stats
 
 <a align="left" href="https://github.com/YatharthChauhan2362/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=YatharthChauhan2362&style=for-the-badge">
 </a>
 <a href="https://github.com/YatharthChauhan2362"><img alt="followers" title="Followers me on Github" src="https://img.shields.io/github/followers/YatharthChauhan2362?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>&nbsp;&nbsp;&nbsp;
 
-## 👉 Skills
+# 👉 Skills
 
 ### Programming Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -91,13 +91,13 @@ I’m passionate about technology and education. If you’re interested in worki
 ### Digital Marketing:
 
 
-## 👉 CERTIFICATIONS
+# 👉 CERTIFICATIONS
 - **13x Microsoft Azure Certified** - Azure Solutions Architect (AZ-305), Azure DevOps Expert (AZ-400), Azure Developer Associate (AZ-204), Azure Administrator Associate (AZ-104), Data Engineer Associate (DP-203), Azure Fundamentals (AZ-900), AI Fundamentals (AI-900), Power Platform Fundamentals (PL-900), Security, Compliance, and Identity Fundamentals (SC-900), Data Fundamentals (DP-900), Microsoft 365 Certified: Fundamentals, Dynamics 365 Fundamentals CRM (MB-910), Dynamics 365 Fundamentals ERP (MB-920).
 - **4x GitHub Certified** - GitHub Foundations, GitHub Administration, GitHub Actions, GitHub Advanced Security.
 - **Microsoft MVP Certified** - Student Trainer, Mentee, and AI Coach.
 
 
-## 👉 Achievements
+# 👉 Achievements
 
 - Founder & CEO of WEBXELA, a Microsoft for Startups partner.
 - LinkedIn Top Voice.
@@ -107,7 +107,7 @@ I’m passionate about technology and education. If you’re interested in worki
 - LinkedIn Certified Marketing Insider.
 - Google UX Design Specialization Certified.
 
-## 👉 Follow me on Social Media
+# 👉 Follow me on Social Media
 
 <p align="left">
   <a href="https://www.linkedin.com/in/yatharth-chauhan-729674202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
