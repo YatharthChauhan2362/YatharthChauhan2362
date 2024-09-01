@@ -6,42 +6,50 @@
 </p>
 
 <p align='center'>
+  <a href="https://linktr.ee/yatharthchauhan"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white"/></a>&nbsp;
     <a href="https://www.youtube.com/c/YatriCloud"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;
     <a href="https://www.linkedin.com/in/yatharth-chauhan-729674202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
       <a href="https://medium.com/@yatharth-chauhan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
-    <a href="https://linktr.ee/yatharthchauhan"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=Linktree&logoColor=white"/></a>&nbsp;
     <a href="https://yatharthchauhan.me"><img alt="My Website" title="My Website" src="https://img.shields.io/badge/Portfolio-ff4828?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;
     <a href="https://www.instagram.com/yatharth.chauhan_yc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
     <a href="https://twitter.com/Yatharth_YC"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;
     <a href="https://topmate.io/yatharth"><img src="https://img.shields.io/badge/Topmate.io-%23424242?style=for-the-badge&logo=Topmate&logoColor=white"/></a>&nbsp;
 </p>
 
-![Yatharth Chauhan Github Cover Page](https://user-images.githubusercontent.com/75237577/190224954-22cdc7a2-b6a8-492c-8abe-23acfc4eb00c.jpg)
 
-## About Me🙋🏻
+## 👉 About Me
+
+![Yatri Cloud - GitHub](https://github.com/user-attachments/assets/62f6e541-7e7d-4924-9434-72540f63d01f)
 
 
 
-🌐 Checkout my [Portfolio Website](https://yatharthchauhan.me)
+# 👉 Book 1:1 Meeting: [Book Now](https://topmate.io/yatharthchauhan/1161501)
 
-Leading WEBXELA as a Founder, a Microsoft for Startups partner. Here’s a quick overview of what I do and how we can collaborate:
 
-- 👉 **Tech Leadership:** Founder & CEO of WEBXELA, driving innovation in software solutions.
-- 👉 **Content Creation:** Creating education videos on the [Yatri Cloud YouTube Channel](https://www.youtube.com/c/YatriCloud) and writing for the [Yatri Blog](https://yatharthchauhan.me/blog) and [Medium](https://medium.com/@yatharth.chauhan).
-- 👉 **Certifications:** 13x Microsoft Azure Certified, 4x GitHub Certified, LinkedIn Certified Marketing Insider, Google UX Design Specialization Certified.
-- 👉 **Community Impact:** Gold Microsoft Student Ambassador and LinkedIn Top Voice.
-- 👉 **Expertise:** Cloud Computing, Systems Management, Business Strategy, Personal Branding.
+Leading WEBXELA as a founder and a Microsoft for Startups partner. Here’s a quick overview of what I do and how we can collaborate:
+
+- **Tech Leadership:** Founder & CEO of @WEBXELA, driving innovation in software solutions.
+- **Content Creation:** Creating education videos on the [Yatri Cloud YouTube Channel]([https://www.youtube.com/c/YatriCloud](https://www.youtube.com/@yatricloud?sub_confirmation=1&sub_confirmation=1)) and writing for the [Yatri Blog](https://blog.yatricloud.com/), [Yatri Dev](https://dev.yatricloud.com) and [Medium](https://medium.com/@yatharthchauhan).
+- **Certifications:** 13x Microsoft Azure Certified, 4x GitHub Certified, LinkedIn Certified Marketing Insider, Google UX Design Specialization Certified.
+- **Community Impact:** Gold Microsoft Student Ambassador and LinkedIn Top Voice.
+- **Expertise:** Cloud Computing, Systems Management, Business Strategy, Personal Branding.
 
 I’m passionate about technology and education. If you’re interested in working together on live projects, business strategy, or content creation, let’s connect and drop a message to start now! 🤝
 
-## Stats📈
+<p align="left">
+  <a href="https://l.instagram.com/?u=https%3A%2F%2Fwww.fiverr.com%2Fyatharth2362%2Fdesign-modern-minimalist-logo-business-and-brand&e=ATNJWzgzR3sihFxqgnFifej1LdwcLIUYSQUIUG3gJbs0uL-LWGFd1Azz28SLfA6QBXcAnIxyJ4xmFnb3&s=1" target="blank"><img align="center" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="https://github.com/sponsors/YatharthChauhan2362" target="blank"><img align="center" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
+</p>
+
+
+## 👉 Stats
 
 <a align="left" href="https://github.com/YatharthChauhan2362/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=YatharthChauhan2362&style=for-the-badge">
 </a>
 <a href="https://github.com/YatharthChauhan2362"><img alt="followers" title="Followers me on Github" src="https://img.shields.io/github/followers/YatharthChauhan2362?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers"/></a>&nbsp;&nbsp;&nbsp;
 
-## Skills🛠️
+## 👉 Skills
 
 ### Programming Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -67,13 +75,13 @@ I’m passionate about technology and education. If you’re interested in worki
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Jekyll](https://img.shields.io/badge/jekyll-%23CC0000.svg?style=for-the-badge&logo=jekyll&logoColor=white)
 
-### Artificial Intelligence:
+### Others:
 ![Artificial Intelligence](https://img.shields.io/badge/artificial_intelligence-%2320232A.svg?style=for-the-badge&logo=ai&logoColor=white)
-
-### Productivity:
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) 
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google-workspace&logoColor=white) 
 ![Zoho](https://img.shields.io/badge/Zoho-%2300AD7E.svg?style=for-the-badge&logo=zoho&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-%2300C4CC.svg?style=for-the-badge&logo=digital-marketing&logoColor=white)
+
 
 ### UI/UX Design:
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white) 
@@ -81,33 +89,15 @@ I’m passionate about technology and education. If you’re interested in worki
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ### Digital Marketing:
-![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-%2300C4CC.svg?style=for-the-badge&logo=digital-marketing&logoColor=white)
 
 
-## Socials🤝🏻
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yatharth-chauhan-729674202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/yatharth.chauhan_yc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.snapchat.com/add/yatharth.2362"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/></a>
-  <a href="https://twitter.com/Yatharth_YC"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://docs.microsoft.com/en-gb/users/yatharthchauhan-2803/"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-</p>
-
-## Work💻
-
-<p align="left">
-  <a href="https://l.instagram.com/?u=https%3A%2F%2Fwww.fiverr.com%2Fyatharth2362%2Fdesign-modern-minimalist-logo-business-and-brand&e=ATNJWzgzR3sihFxqgnFifej1LdwcLIUYSQUIUG3gJbs0uL-LWGFd1Azz28SLfA6QBXcAnIxyJ4xmFnb3&s=1" target="blank"><img align="center" src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-  <a href="https://github.com/sponsors/YatharthChauhan2362" target="blank"><img align="center" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
-</p>
-
-## CERTIFICATIONS
+## 👉 CERTIFICATIONS
 - **13x Microsoft Azure Certified** - Azure Solutions Architect (AZ-305), Azure DevOps Expert (AZ-400), Azure Developer Associate (AZ-204), Azure Administrator Associate (AZ-104), Data Engineer Associate (DP-203), Azure Fundamentals (AZ-900), AI Fundamentals (AI-900), Power Platform Fundamentals (PL-900), Security, Compliance, and Identity Fundamentals (SC-900), Data Fundamentals (DP-900), Microsoft 365 Certified: Fundamentals, Dynamics 365 Fundamentals CRM (MB-910), Dynamics 365 Fundamentals ERP (MB-920).
 - **4x GitHub Certified** - GitHub Foundations, GitHub Administration, GitHub Actions, GitHub Advanced Security.
 - **Microsoft MVP Certified** - Student Trainer, Mentee, and AI Coach.
 
 
-## Achievements🏆
+## 👉 Achievements
 
 - Founder & CEO of WEBXELA, a Microsoft for Startups partner.
 - LinkedIn Top Voice.
@@ -117,6 +107,14 @@ I’m passionate about technology and education. If you’re interested in worki
 - LinkedIn Certified Marketing Insider.
 - Google UX Design Specialization Certified.
 
----
+## 👉 Follow me on Social Media
 
-Let me know if there's anything else you'd like to adjust!
+<p align="left">
+  <a href="https://www.linkedin.com/in/yatharth-chauhan-729674202/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/yatharth.chauhan_yc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.snapchat.com/add/yatharth.2362"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white"/></a>
+  <a href="https://twitter.com/Yatharth_YC"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://docs.microsoft.com/en-gb/users/yatharthchauhan-2803/"><img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+</p>
+
+
