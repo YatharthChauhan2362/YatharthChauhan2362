@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Yatharth Chauhan</h1>
-<h3 align="center">Founder of <a href="https://webxela.com" target="_blank" rel="noopener noreferrer">WEBXELA</a> and YouTuber at <a href="https://www.youtube.com/@yatricloud?sub_confirmation=1" target="_blank" rel="noopener noreferrer">YatriCloud</a></h3>
+<h3 align="center"><a href="https://webxela.com" target="_blank" rel="noopener noreferrer"></a>YouTuber <a href="https://www.youtube.com/@yatricloud?sub_confirmation=1" target="_blank" rel="noopener noreferrer">YatriCloud</a></h3>
 
 <p align='center'>
   13x Microsoft Azure & 4x GitHub Certified
@@ -26,7 +26,7 @@
 # 👉 Book 1:1 Meeting: [Book Now](https://topmate.io/yatharthchauhan/1161501)
 
 # 👉 About Me
-Leading WEBXELA as a founder and a Microsoft for Startups partner. Here’s a quick overview of what I do and how we can collaborate:
+Leading WEBXELA and a Microsoft for Startups partner. Here’s a quick overview of what I do and how we can collaborate:
 
 - **Tech Leadership:** Founder & CEO of @WEBXELA, driving innovation in software solutions.
 - **Content Creation:** Creating education videos on the [Yatri Cloud YouTube Channel]([https://www.youtube.com/c/YatriCloud](https://www.youtube.com/@yatricloud?sub_confirmation=1&sub_confirmation=1)) and writing for the [Yatri Blog](https://blog.yatricloud.com/), [Yatri Dev](https://dev.yatricloud.com) and [Medium](https://medium.com/@yatharthchauhan).
