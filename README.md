@@ -2,7 +2,7 @@
 <h3 align="center"><a href="https://webxela.com" target="_blank" rel="noopener noreferrer"></a>YouTuber <a href="https://www.youtube.com/@yatricloud?sub_confirmation=1" target="_blank" rel="noopener noreferrer">YatriCloud</a></h3>
 
 <p align='center'>
-  15x Microsoft Azure & 5x GitHub Certified
+  16x Microsoft Azure & 5x GitHub Certified
 </p>
 
 <p align='center'>
@@ -23,14 +23,14 @@
 
 
 
-# 👉 Book 1:1 Meeting: [Book Now](https://topmate.io/yatharthchauhan/1161501)
+# 👉 Book 1:1 Meeting: [Book Now](https://topmate.io/yatharthchauhan/1161502)
 
 # 👉 About Me
 Leading WEBXELA and a Microsoft for Startups partner. Here’s a quick overview of what I do and how we can collaborate:
 
-- **Tech Leadership:** Founder & CEO of @WEBXELA, driving innovation in software solutions.
+- **Tech Leadership:** Founder @YatriCloud
 - **Content Creation:** Creating education videos on the [Yatri Cloud YouTube Channel]([https://www.youtube.com/c/YatriCloud](https://www.youtube.com/@yatricloud?sub_confirmation=1&sub_confirmation=1)) and writing for the [Yatri Blog](https://blog.yatricloud.com/), [Yatri Dev](https://dev.yatricloud.com) and [Medium](https://medium.com/@yatharthchauhan).
-- **Certifications:** 15x Microsoft Azure Certified, 5x GitHub Certified, LinkedIn Certified Marketing Insider, Google UX Design Specialization Certified.
+- **Certifications:** 16x Microsoft Azure Certified, 5x GitHub Certified, LinkedIn Certified Marketing Insider, Google UX Design Specialization Certified.
 - **Community Impact:** Gold Microsoft Student Ambassador and LinkedIn Top Voice.
 - **Expertise:** Cloud Computing, Systems Management, Business Strategy, Personal Branding.
 
@@ -92,17 +92,15 @@ I’m passionate about technology and education. If you’re interested in worki
 
 
 # 👉 CERTIFICATIONS
-- **15x Microsoft Azure Certified** - Azure Solutions Architect (AZ-305), Azure DevOps Expert (AZ-400), Azure Developer Associate (AZ-204), Azure Administrator Associate (AZ-104), Data Engineer Associate (DP-203), Azure Fundamentals (AZ-900), AI Fundamentals (AI-900), Power Platform Fundamentals (PL-900), Security, Compliance, and Identity Fundamentals (SC-900), Data Fundamentals (DP-900), Microsoft 365 Certified: Fundamentals, Dynamics 365 Fundamentals CRM (MB-910), Dynamics 365 Fundamentals ERP (MB-920).
+- **16x Microsoft Azure Certified** - Azure Solutions Architect (AZ-305), Azure DevOps Expert (AZ-400), Azure Developer Associate (AZ-204), Azure Administrator Associate (AZ-104), Data Engineer Associate (DP-203), Azure Fundamentals (AZ-900), AI Fundamentals (AI-900), Power Platform Fundamentals (PL-900), Security, Compliance, and Identity Fundamentals (SC-900), Data Fundamentals (DP-900), Microsoft 365 Certified: Fundamentals, Dynamics 365 Fundamentals CRM (MB-910), Dynamics 365 Fundamentals ERP (MB-920).
 - **5x GitHub Certified** - GitHub Foundations, GitHub Administration, GitHub Actions, GitHub Advanced Security.
 - **Microsoft MVP Certified** - Student Trainer, Mentee, and AI Coach.
 
 
 # 👉 Achievements
 
-- Founder & CEO of WEBXELA, a Microsoft for Startups partner.
-- LinkedIn Top Voice.
-- Gold Microsoft Student Ambassador and community lead for 1+ years.
-- 15x Microsoft Azure Certified.
+- Gold Microsoft Student Ambassador and community lead for 2+ years.
+- 16x Microsoft Azure Certified.
 - 5x GitHub Certified.
 - LinkedIn Certified Marketing Insider.
 - Google UX Design Specialization Certified.
